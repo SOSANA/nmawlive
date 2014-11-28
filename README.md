@@ -1,6 +1,6 @@
 ##nmawlive
 For the Node.js, MongoDB and AngularJS Web Development live lessons
-========
+
 ###Lesson 1
 Node Intro on Callbacks and Event Loop, Events and Listeners, Stream I/O, and Building your NPM Package
 
