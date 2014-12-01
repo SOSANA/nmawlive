@@ -11,12 +11,17 @@ Node.js, MongoDB and AngularJS Web Development livelessons
 ####1.6 Handle streams and file I/O
 
 ###Lesson 2: MongoDB Fundamentals
->2.1 Create databases, collections and documents in the MongoDB Shell
->2.2 View documents in a collection from the MongoDB Shell
->2.3 Modify and remove documents, collections and databases from the MongoDB Shell
->2.4 Apply users and authentication to MongoDB
->2.5 Add and remove indexes to improve performance
->2.6 Run a MongoDB Shell script to create and populate a database
+2.1 Create databases, collections and documents in the MongoDB Shell
+
+2.2 View documents in a collection from the MongoDB Shell
+
+2.3 Modify and remove documents, collections and databases from the MongoDB Shell
+
+2.4 Apply users and authentication to MongoDB
+
+2.5 Add and remove indexes to improve performance
+
+2.6 Run a MongoDB Shell script to create and populate a database
 
 ###Lesson 3: Using MongoDB as the Data Store for Node.js Applications
 3.1 Access MongoDB from Node.js applications
