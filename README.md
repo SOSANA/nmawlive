@@ -4,12 +4,12 @@ Node.js, MongoDB and AngularJS Web Development livelessons
 ##Table of Contents
 
 ###Lesson 1: Node.js Fundamentals
-1.1 Setup the Node.js development environment
-1.2 Create a Node.js application
-1.3 Create a Node.js module
-1.4 Using the Node.js callback model
-1.5 Implementing events and listeners
-1.6 Handle streams and file I/O
+#1.1 Setup the Node.js development environment
+#1.2 Create a Node.js application
+#1.3 Create a Node.js module
+#1.4 Using the Node.js callback model
+#1.5 Implementing events and listeners
+#1.6 Handle streams and file I/O
 
 ###Lesson 2: MongoDB Fundamentals
 2.1 Create databases, collections and documents in the MongoDB Shell
