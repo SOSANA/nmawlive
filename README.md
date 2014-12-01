@@ -2,7 +2,6 @@
 Node.js, MongoDB and AngularJS Web Development livelessons
  
 ##Table of Contents
-
 ###Lesson 1: Node.js Fundamentals
 ####1.1 Setup the Node.js development environment
 ####1.2 Create a Node.js application
