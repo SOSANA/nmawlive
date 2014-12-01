@@ -9,4 +9,4 @@ app.get('/', function (req, res) {
   res.redirect('/static.html');
 });
 
-app.listen(80);
+app.listen(3000);
