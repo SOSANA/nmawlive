@@ -89,4 +89,4 @@ Node.js, MongoDB and AngularJS Web Development livelessons
 
 7.4 Sort data displayed in the application view
 
-Lesson 4 left off at 13:40
+Lesson 5 left off at 7:45
